@@ -1,3 +1,6 @@
+#Just to test the image is getting generated or not
+
+
 from diffusers import StableDiffusionPipeline
 import torch
 
