@@ -1,5 +1,6 @@
 #Just to test the image is getting generated or not
-
+#The output.png is the output which is generated through generate_image.py 
+#These code is just for testing 
 
 from diffusers import StableDiffusionPipeline
 import torch
