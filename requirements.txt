@@ -1,0 +1,7 @@
+# requirements.txt
+torch
+transformers
+diffusers
+accelerate
+safetensors
+Pillow
